@@ -1,0 +1,42 @@
+.content-item{
+    border-left: solid 5px yellow;
+    width: 300px;
+    margin: 0 auto;
+}
+.content-item p{
+    padding-left: 30px;
+    text-align: start;
+    font-size: 20px;
+}
+.quotes{
+    padding: 50px;
+}
+.quotes button.d-flex.btn{
+    margin-left: auto;
+}
+.business{
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+.business:hover{
+    color: white;
+    background-color: #282c34;
+}
+.business p{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+.business span{
+    font-size: 14px;
+    color: grey;
+}
+.business div{
+    text-align: start;
+}
